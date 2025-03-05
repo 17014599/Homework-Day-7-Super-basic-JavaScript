@@ -28,3 +28,4 @@ let number = 7;
 let isEven = number % 2 ===0;
 console.log("Number " + number + " is " + (isEven ? "even" : "odd"));
 
+
